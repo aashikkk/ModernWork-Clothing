@@ -1,0 +1,18 @@
+.prod-men{
+    background-color: #e7f1ef;
+}
+
+.prod-women{
+    background-color: #e7dee0;
+}
+
+.card.categ-card-m{
+    background-color: #6fc2ac;
+    color: white;
+}
+  
+.card.categ-card-w{
+    background-color: #b18d98; 
+    color: white;
+}
+  
