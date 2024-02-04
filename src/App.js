@@ -3,7 +3,7 @@ import "./App.css";
 import Home from "./pages/homepage";
 import MenPage from "./pages/men";
 import WomenPage from "./pages/women";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
 	return (
